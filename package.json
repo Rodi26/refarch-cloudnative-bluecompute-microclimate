@@ -25,8 +25,8 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "strong-supervisor": "^6.2.0",
-    "log4js": "^1.1.1",
-    "request": "2.85.0",
+    "log4js": "^6.9.1",
+    "request": "2.88.2",
     "request-promise": "4.2.2"
   },
   "devDependencies": {
